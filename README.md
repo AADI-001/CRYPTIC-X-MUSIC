@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
+  <img src="https://graph.org/file/025822f0a3eef1d83141c.jpg">
 </p>
 
 <h3 align="center">
@@ -73,8 +73,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/THEAXV"> <img src="https://img.shields.io/badge/Shikhar-black?style=for-the-badge&logo=github" alt="THEAXV" /> </a>
-<a href="https://t.me/yogi_sehlangia"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="THECOPY" /> </a>
+<a href="https://t.me/THEAXV"> <img src="https://img.shields.io/badge/THEAXV-black?style=for-the-badge&logo=github" alt="THEAXV" /> </a>
+<a href="https://t.me/yogi_sehlangia"> <img src="https://img.shields.io/badge/THECOPY-black?style=for-the-badge&logo=github" alt="THECOPY" /> </a>
 </p>
 
 
